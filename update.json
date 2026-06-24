@@ -1,0 +1,22 @@
+{
+  "windows": {
+    "version": "1.0.0",
+    "url": "https://github.com/tu-usuario/LupoBridge/releases/download/v1.0.0/LupoBridge-Windows-Setup.exe",
+    "notes": "Initial release for Windows."
+  },
+  "mac": {
+    "version": "1.0.0",
+    "url": "https://github.com/tu-usuario/LupoBridge/releases/download/v1.0.0/LupoBridge-Mac.dmg",
+    "notes": "Initial release for macOS."
+  },
+  "linux": {
+    "version": "1.0.0",
+    "url": "https://github.com/tu-usuario/LupoBridge/releases/download/v1.0.0/LupoBridge-Linux.AppImage",
+    "notes": "Initial release for Linux."
+  },
+  "android": {
+    "version": "1.0.0",
+    "url": "https://github.com/tu-usuario/LupoBridge/releases/download/v1.0.0/LupoBridge-Android.apk",
+    "notes": "Initial release for Android."
+  }
+}
