@@ -1,22 +1,26 @@
 {
   "windows_portable": {
     "version": "1.1.0.0",
-    "url": "https://github.com/tu-usuario/LupoBridge/releases/download/v1.1.0/LupoBridge-Windows-Portable.exe"
+    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.0/LupoBridge-Windows-Portable.exe"
   },
   "windows_setup": {
     "version": "1.1.0.0",
-    "url": "https://github.com/tu-usuario/LupoBridge/releases/download/v1.1.0/LupoBridge-Windows-Setup.exe"
+    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.0/LupoBridge-Windows-Setup.exe"
   },
   "linux_appimage": {
     "version": "1.1.0.0",
-    "url": "https://github.com/tu-usuario/LupoBridge/releases/download/v1.1.0/LupoBridgeLinux"
+    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.0/LupoBridgeLinux"
+  },
+  "linux_targz": {
+    "version": "1.1.0.0",
+    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.0/LupoBridgeLinux-Folder.tar.gz"
   },
   "mac": {
     "version": "1.1.0.0",
-    "url": "https://github.com/tu-usuario/LupoBridge/releases/download/v1.1.0/LupoBridgeMac.dmg"
+    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.0/LupoBridgeMac.dmg"
   },
   "android": {
     "version": "1.1.6",
-    "url": "https://github.com/tu-usuario/LupoBridge/releases/download/v1.1.6/LupoBridge-Android.apk"
+    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.6/LupoBridge-Android.apk"
   }
 }
