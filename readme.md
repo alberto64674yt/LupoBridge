@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150x150/0f172a/8b5cf6?text=LB" alt="LupoBridge Logo" width="120" height="120">
+  <img src="favicon.svg" alt="LupoBridge Logo" width="120" height="120">
   <h1>LupoBridge</h1>
   <p><b>The ultimate Local-First Clipboard & File Synchronization tool.</b></p>
 
