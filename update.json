@@ -1,32 +1,26 @@
 {
-  "windows_setup": {
-    "version": "1.1.0",
-    "url": "https://github.com/tu-usuario/LupoBridge/releases/download/v1.1.0/LupoBridge-Windows-Setup.exe",
-    "notes": "Added multi-file transfer support."
-  },
   "windows_portable": {
     "version": "1.1.0",
-    "url": "https://github.com/tu-usuario/LupoBridge/releases/download/v1.1.0/LupoBridge-Windows-Portable.exe",
-    "notes": "Added multi-file transfer support."
+    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.0/LupoBridge-Windows-Portable.exe"
   },
-  "mac": {
+  "windows_setup": {
     "version": "1.1.0",
-    "url": "https://github.com/tu-usuario/LupoBridge/releases/download/v1.1.0/LupoBridge-Mac.dmg",
-    "notes": "Added multi-file transfer support."
+    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.0/LupoBridge-Windows-Setup.exe"
   },
   "linux_portable": {
-    "version": "1.1.0.0",
-    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.0/LupoBridge-Linux-Portable",
-    "notes": "Added multi-file transfer support."
+    "version": "1.0.0",
+    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.0/LupoBridge-Linux-Portable"
   },
   "linux_targz": {
-    "version": "1.1.0.0",
-    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.0/LupoBridge-Linux-Setup.tar.gz",
-    "notes": "Added multi-file transfer support."
+    "version": "1.0.0",
+    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.0/LupoBridge-Linux-Setup.tar.gz"
+  },
+  "mac": {
+    "version": "1.0.0",
+    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.0/LupoBridge-Mac.dmg"
   },
   "android": {
-    "version": "1.1.0",
-    "url": "https://github.com/tu-usuario/LupoBridge/releases/download/v1.1.0/LupoBridge-Android.apk",
-    "notes": "Added multi-file transfer support."
+    "version": "1.1.6",
+    "url": "https://github.com/alberto64674yt/LupoBridge/releases/download/v1.1.6/LupoBridge-Android.apk"
   }
 }
